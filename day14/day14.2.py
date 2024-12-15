@@ -29,8 +29,6 @@ with open("input.txt", "r") as f:
 
 WIDTH = 101
 HEIGHT = 103
-TIME_TO_PASS = 100
-
 
 class NumberImageApp:
     def __init__(self, root):
